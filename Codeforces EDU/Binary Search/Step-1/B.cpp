@@ -1,5 +1,5 @@
 /*
-CODEFORCES EDU Binary Search B
+CODEFORCES EDU Binary Search Step 1 B
 
 PROBLEM STATEMENT
 Given an array of n numbers, sorted in non-decreasing order, and k queries. For each query, print the maximum index of an array element not greater than the given one.

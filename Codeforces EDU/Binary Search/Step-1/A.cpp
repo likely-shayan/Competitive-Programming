@@ -1,5 +1,5 @@
 /*
-CODEFORCES EDU Binary Search A
+CODEFORCES EDU Binary Search Step 1 A
 
 PROBLEM STATEMENT
 Implement a binary search algorithm.

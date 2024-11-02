@@ -1,5 +1,5 @@
 /*
-CODEFORCES EDU Two Pointers A
+CODEFORCES EDU Two Pointers Step 1 A
 
 PROBLEM STATEMENT
 You are given two arrays, sorted in non-decreasing order. Merge them into one sorted array.
