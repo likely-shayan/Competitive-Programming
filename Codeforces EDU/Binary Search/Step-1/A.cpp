@@ -5,7 +5,9 @@ PROBLEM STATEMENT
 Implement a binary search algorithm.
 
 INPUT
-The first line of the input contains integers n and k (1 ≤ n, k ≤ 10^5), the length of the array and the number of queries. The second line contains n elements of the array, sorted in non-decreasing order. The third line contains k queries. All array elements and queries are integers, each of which does not exceed 10^9 in absolute value.
+The first line of the input contains integers n and k (1 ≤ n, k ≤ 10^5), the length of the array and the number of queries.
+The second line contains n elements of the array, sorted in non-decreasing order.
+The third line contains k queries. All array elements and queries are integers, each of which does not exceed 10^9 in absolute value.
 
 OUTPUT
 For each of the k queries print YES in a separate line if this number occurs in the array, and NO otherwise.

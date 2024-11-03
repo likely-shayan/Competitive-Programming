@@ -5,7 +5,8 @@ PROBLEM STATEMENT
 You are given two arrays, sorted in non-decreasing order. Merge them into one sorted array.
 
 INPUT
-The first line contains integers n and m, the sizes of the arrays (1 ≤ n, m ≤ 10^5). The second line contains n integers ai, elements of the first array, the third line contains m integers bi, elements of the second array (−10^9 ≤ ai,bi ≤ 10^9).
+The first line contains integers n and m, the sizes of the arrays (1 ≤ n, m ≤ 10^5).
+The second line contains n integers ai, elements of the first array, the third line contains m integers bi, elements of the second array (−10^9 ≤ ai,bi ≤ 10^9).
 
 OUTPUT
 Print n+m integers, the merged array.
