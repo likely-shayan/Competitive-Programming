@@ -1,5 +1,5 @@
 {
-    "cmd": "g++ -std=c++2b -Wall -O3 -DLOCAL_JUDGE program.cpp -o program.out && timeout 2s ./program.out",
+    "cmd": "g++ -std=c++2b -Wall -O3 -DLOCAL_JUDGE main.cpp -o main.out && timeout 2s ./main.out",
     "file_regex": "^(...*?):([0-9]*):?([0-9]*)",
     "working_dir": "${file_path}",
     "selector": "source.c++",
